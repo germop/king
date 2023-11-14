@@ -1,0 +1,2 @@
+# king
+ninja.io
